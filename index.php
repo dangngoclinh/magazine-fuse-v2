@@ -32,7 +32,7 @@
                             <a href="http://www.e-aydin.com/theme/minihorse/2017/03/26/well-mercias-a-temperate-zone/"><img src="http://www.e-aydin.com/theme/minihorse/wp-content/uploads/2017/03/qweqwe1-1024x498.jpg" class="attachment-minihorse-article-a size-minihorse-article-a wp-post-image img-fluid">
                             </a>
                         </figure>
-                        <div class="article-content">
+                        <div class="article-content text">
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod hic, odit suscipit sunt nostrum perspiciatis vero aut est at, mollitia eligendi repellat. Possimus quisquam voluptatum porro eligendi, quasi rem ipsum, est officiis itaque harum unde assumenda fugit vero cupiditate minima iure. Facere aspernatur officiis quaerat nisi, sint sit minus similique dolore ipsam, aliquam aliquid earum ipsum odit. Temporibus laborum necessitatibus ipsum incidunt, quod pariatur voluptatem, minus exercitationem ipsa at saepe molestias commodi veritatis dignissimos adipisci.
                             </p>
                         </div>

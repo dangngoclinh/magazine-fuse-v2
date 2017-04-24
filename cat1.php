@@ -29,7 +29,7 @@
 						          </span>
 						    </div>
 						    <!-- .c-article-detail -->
-						    <p class="article-excerpt">
+						    <p class="article-excerpt text">
 						        Quick win execute , nor t-shaped individual, we need to leverage our synergies cross-pollination. Granularity you better eat a... </p>
 						    <div class="article-footer">
 							    <div class="row">

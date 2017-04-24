@@ -3,6 +3,8 @@
 
 <head>
     <title>Magazine Fuse v2</title>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700&amp;subset=latin-ext" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Noticia+Text:400,700&amp;subset=latin-ext" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
     <link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
     <link rel="stylesheet" type="text/css" href="style.css">

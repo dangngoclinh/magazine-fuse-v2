@@ -13,14 +13,16 @@
                             That and as since much broke a far      </h2>
                             <div class="article-meta">
                                 <span class="article-meta-author">
-                                  <img alt="" src="http://1.gravatar.com/avatar/47e0fbec7b4b0702f00420cc1f301226?s=24&amp;d=mm&amp;r=g" srcset="http://1.gravatar.com/avatar/47e0fbec7b4b0702f00420cc1f301226?s=48&amp;d=mm&amp;r=g 2x" class="avatar avatar-24 photo" height="24" width="24"> <a href="http://www.e-aydin.com/theme/minihorse/author/emreaydin/" title="Posts by Horse Whisperer" rel="author">Horse Whisperer</a>        </span>
-                                    <span>
-                                  <a href="http://www.e-aydin.com/theme/minihorse/2017/03/25/"><i class="fa fa-clock-o" aria-hidden="true"></i> March 25, 2017</a>
-                                </span>
-                                    <span>
-                                  <a href="http://www.e-aydin.com/theme/minihorse/2017/03/25/that-and-as-since-much-broke-a-far/#comments"><i class="fa fa-comments-o" aria-hidden="true"></i>
-                                    1 comment          </a>
-                                </span>
+                              <img alt="" src="http://1.gravatar.com/avatar/47e0fbec7b4b0702f00420cc1f301226?s=24&amp;d=mm&amp;r=g" srcset="http://1.gravatar.com/avatar/47e0fbec7b4b0702f00420cc1f301226?s=48&amp;d=mm&amp;r=g 2x" class="avatar avatar-24 photo" height="24" width="24"> <a href="http://www.e-aydin.com/theme/minihorse/author/emreaydin/" title="Posts by Horse Whisperer" rel="author">Horse Whisperer</a>        </span>
+                                <span>
+                              <a href="http://www.e-aydin.com/theme/minihorse/2017/03/25/"><i class="fa fa-clock-o" aria-hidden="true"></i> March 25, 2017</a>
+                            </span>
+                                <span>
+                              <a href="http://www.e-aydin.com/theme/minihorse/2017/03/25/that-and-as-since-much-broke-a-far/#comments"><i class="fa fa-comments-o" aria-hidden="true"></i>
+                                1 comment          </a>
+                            </span>
+                                <span>
+                              <i class="fa fa-eye" aria-hidden="true"></i> 176 Reads        </span>
                             </div>
                             <!-- .article-detail -->
                         </header>
@@ -29,7 +31,7 @@
                         <figure class="article-thumbnail">
                             <img src="http://www.e-aydin.com/theme/minihorse/wp-content/uploads/2017/03/435342.jpg" class="img-fluid"> </figure>
 
-                        <div class="article-content text">
+                        <div class="article-content single-content">
                             <p>Quick win execute , nor t-shaped individual, we need to leverage our synergies <strong>cross-pollination</strong>. Granularity you better eat a reality sandwich before you walk back in that boardroom, but mobile friendly, translating our vision of having a market leading platfrom yet can we take this offline, but timeframe you better eat a reality sandwich before you walk back in that boardroom. This is meaningless cloud strategy nor who’s responsible for the ask for this request?, staff engagement baseline so message the initiative but powerpoint Bunny. Get six alpha pups in here for a focus group data-point.<span id="more-103"></span>
                             </p>
                             <h1>This is heading 1</h1>
@@ -239,7 +241,7 @@
                                 <div class="row">
                                     <figure class="single-footer-author-avatar col-md-2">
                                         <img alt="" src="http://1.gravatar.com/avatar/47e0fbec7b4b0702f00420cc1f301226?s=120&amp;d=mm&amp;r=g" srcset="http://1.gravatar.com/avatar/47e0fbec7b4b0702f00420cc1f301226?s=240&amp;d=mm&amp;r=g 2x" class="avatar avatar-120 photo" height="120" width="120"> </figure>
-                                    <div class="single-footer-author-detail col-md-10 text">
+                                    <div class="single-footer-author-detail col-md-10">
                                         <span>Written by</span>
                                         <h6>Horse Whisperer</h6>
                                         <p>People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying no to 1,000 things.</p>
@@ -354,7 +356,7 @@
                                             </div>
                                         </header>
                                         <!-- .comment-author-header -->
-                                        <div class="comment-content text">
+                                        <div class="comment-content single-content">
                                             <p>Stirred by starlight made in the interiors of collapsing stars <u>Sea of Tranquility</u> cosmic ocean not a sunrise but a galaxyrise brain is the seed of intelligence galaxies quasar star stuff harvesting star light. Kindling the energy hidden in matter! <strong>Cosmos</strong><strong> a still more glorious dawn awaits tingling of the spine extraordinary claims require extraordinary evidence kindling the energy hidden in matter courage of our questions a still more glorious dawn awaits, not a sunrise but a galaxyrise. Stirred by starlight? Prime number, <ins>Sea of Tranquility</ins>. Stirred by starlight birth, <i>of brilliant syntheses</i>, Vangelis star stuff harvesting star light, tingling of the spine?</strong>
                                             </p>
                                         </div>
