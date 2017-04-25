@@ -1,0 +1,24 @@
+/* wallpaper download */
+.wallpaper-thumb {
+	margin-top: 40px;
+}
+
+.wallpaper-thumb img {
+	width: 100%;
+	height: auto;
+	border-radius: 5px;
+}
+
+.wallpaper-info {
+	margin-top: 30px;
+}
+
+.wallpaper-download {
+	
+}
+
+.wallpaper-download a.btn {
+	color: #fff;
+	text-decoration: none;
+	margin: 0 10px 10px 0;
+}

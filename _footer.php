@@ -2,7 +2,7 @@
         <div class="footer-widget">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-3">
+                    <div class="col-lg-3 col-md-6 col-sm-12">
                         <section id="search-2" class="widget widget_search">
                             <form role="search" method="get" class="search-form" action="http://localhost/wordpress/">
                                 <label>
@@ -29,7 +29,7 @@
                             </ul>
                         </section>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-lg-3 col-md-6 col-sm-12">
                         <section id="calendar-2" class="widget widget_calendar">
                             <div id="calendar_wrap" class="calendar_wrap">
                                 <table id="wp-calendar">
@@ -122,7 +122,7 @@
                             </ul>
                         </section>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-lg-3 col-md-6 col-sm-12">
                         <section id="categories-3" class="widget widget_categories">
                             <h2 class="widget-title">Categories</h2>
                             <ul>
@@ -257,7 +257,7 @@
                             </ul>
                         </section>
                     </div>
-                    <div class="col-md-3">
+                    <div class="col-lg-3 col-md-6 col-sm-12">
                         <section id="tag_cloud-2" class="widget widget_tag_cloud">
                             <h2 class="widget-title">Tags</h2>
                             <div class="tagcloud"><a href="http://localhost/wordpress/tag/8bit/" class="tag-link-68 tag-link-position-1" title="1 topic" style="font-size: 1em;">8BIT</a>
@@ -314,10 +314,10 @@
         <div class="footer-copyright">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-5 footer-left">
+                    <div class="col-md-5 col-sm-12 footer-left">
                         Copyright © 2017 - MiniHorse WordPress Theme
                     </div>
-                    <div class="col-md-7 footer-right">
+                    <div class="col-md-7 col-sm-12 footer-right">
                         <ul class="footer-menu">
                             <li><a href="#">Menu 1</a>
                             </li>
@@ -331,6 +331,11 @@
         <!-- End .footer-copyright -->
     </footer>
     <!-- End #footer -->
+
+    <!-- Begin Script -->
+    <script type="text/javascript" src="assets/node_modules/jquery/dist/jquery.min.js"></script>
+    <script type="text/javascript" src="assets/js/script.js"></script>
+    <!-- End Script -->
 </body>
 
 </html>

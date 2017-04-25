@@ -4,7 +4,16 @@
         <div id="main">
             <div class="row">
                 <!-- Section Content -->
-                <section id="section-content" class="col-md-9">
+                <section id="section-content" class="col-lg-9 col-md-12">
+                    <div xmlns:v="http://rdf.data-vocabulary.org/#" id="crumbs">
+                      <span typeof="v:Breadcrumb">
+                        <a rel="v:url" property="v:title" class="crumbs-home" href="https://www.magazinefuse.com">Home</a></span> 
+                        <span class="delimiter">/</span> 
+                        <span typeof="v:Breadcrumb">
+                        <a rel="v:url" property="v:title" href="https://www.magazinefuse.com/category/freebie/">Freebie</a></span> 
+                        <span class="delimiter">/</span> 
+                        <span class="current">Beautiful Photoshop Text Effect Tutorials of 2017</span>
+                    </div>
                     <article class="post-103 post type-post status-publish format-standard has-post-thumbnail hentry category-food-drinks tag-design tag-food tag-web  single-one">
                         <header id="single-header" class="article-header">
                             <span class="article-category">
@@ -237,9 +246,9 @@
                             <!-- .single-footer-share -->
                             <div class="single-footer-author">
                                 <div class="row">
-                                    <figure class="single-footer-author-avatar col-md-2">
+                                    <figure class="single-footer-author-avatar col-md-2 col-sm-12">
                                         <img alt="" src="http://1.gravatar.com/avatar/47e0fbec7b4b0702f00420cc1f301226?s=120&amp;d=mm&amp;r=g" srcset="http://1.gravatar.com/avatar/47e0fbec7b4b0702f00420cc1f301226?s=240&amp;d=mm&amp;r=g 2x" class="avatar avatar-120 photo" height="120" width="120"> </figure>
-                                    <div class="single-footer-author-detail col-md-10 text">
+                                    <div class="single-footer-author-detail col-md-10 col-sm-12 text">
                                         <span>Written by</span>
                                         <h6>Horse Whisperer</h6>
                                         <p>People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying no to 1,000 things.</p>
@@ -332,11 +341,11 @@
                             <!-- .single-related -->
                             <section class="comments" id="comments">
                                 <div class="comment-title-button row">
-                                    <h3 class="comment-title col-md-8">
+                                    <h3 class="comment-title col-md-8 col-sm-12">
                                 <a href="#comments">
                                     One Comment         </a>
                             </h3>
-                                    <div class="comment-header-button col-md-4">
+                                    <div class="comment-header-button col-md-4 col-sm-12">
                                         <a href="#respond">
                                 Leave a Reply           </a>
                                     </div>

@@ -1,16 +1,67 @@
-                <aside id="sidebar" class="col-md-3 sidebar-right">
-                    <section id="search-2" class="widget widget_search">
-                        <form role="search" method="get" class="search-form" action="http://localhost/wordpress/">
-                            <label>
-                                <span class="screen-reader-text">Search for:</span>
-                                <input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
-                            </label>
-                            <button type="submit" class="search-submit"><span class="screen-reader-text">Search</span>
-                            </button>
-                        </form>
+                <aside id="sidebar" class="col-lg-3 col-md-12 sidebar-right">
+                    <section id="posts-list-1" class="widget mf-block-1">
+                        <h2 class="widget-title"><span>Recent Posts</span></h2>
+                        <div class="mf-block">
+                            <div class="mf-module-style-1">
+                                <div class="mf-module-image">
+                                    <div class="mf-module-thumb">
+                                        <a href="#"><img src="https://cdn.tapchimua.com/wp-content/uploads/2017/04/giamgia-tiki-324x160.jpg"></a>
+                                        <a class="mf-module-category" href="#">Category</a>
+                                    </div>
+                                </div>
+                                <div class="mf-module-title">
+                                    <h3><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</a></h3>
+                                </div>
+                                <div class="mf-module-meta clearfix">
+                                    <div class="mf-module-meta-author">
+                                        <span class="author"><a href="#">Liam Dang</a></span>
+                                        <span class="time"> - April 5, 2017</span>
+                                    </div>
+                                    <div class="mf-module-meta-comment">
+                                        <a href="#">9</a>
+                                    </div>
+                                </div>
+                                <div class="mf-module-content">
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi optio laboriosam ab dolore minima sapiente cum perspiciatis cupiditate obcaecati labore.
+                                </div>
+                            </div>
+                            <div class="mf-module-style-2">
+                                <div class="td-module-thumb">
+                                    <a href="#"><img width="100px" src="https://cdn.tapchimua.com/wp-content/uploads/2017/04/4-218x150.jpg"></a>
+                                </div>
+                                <div class="td-module-details">
+                                    <h3 class="mf-module-title"><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing.</a></h3>
+                                    <div class="mf-module-meta">
+                                        <div class="time">April 5, 2017</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="mf-module-style-2">
+                                <div class="td-module-thumb">
+                                    <a href="#"><img width="100px" src="https://cdn.tapchimua.com/wp-content/uploads/2017/04/4-218x150.jpg"></a>
+                                </div>
+                                <div class="td-module-details">
+                                    <h3 class="mf-module-title"><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing.</a></h3>
+                                    <div class="mf-module-meta">
+                                        <div class="time">April 5, 2017</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="mf-module-style-2">
+                                <div class="td-module-thumb">
+                                    <a href="#"><img width="100px" src="https://cdn.tapchimua.com/wp-content/uploads/2017/04/4-218x150.jpg"></a>
+                                </div>
+                                <div class="td-module-details">
+                                    <h3 class="mf-module-title"><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing.</a></h3>
+                                    <div class="mf-module-meta">
+                                        <div class="time">April 5, 2017</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </section>
                     <section id="recent-posts-2" class="widget widget_recent_entries">
-                        <h2 class="widget-title">Recent Posts</h2>
+                        <h2 class="widget-title"><span>Recent Posts</span></h2>
                         <ul>
                             <li>
                                 <a href="http://localhost/wordpress/2016/11/26/hello-world/">Hello world!</a>
@@ -30,7 +81,7 @@
                         </ul>
                     </section>
                     <section id="recent-comments-2" class="widget widget_recent_comments">
-                        <h2 class="widget-title">Recent Comments</h2>
+                        <h2 class="widget-title"><span>Recent Comments</span></h2>
                         <ul id="recentcomments">
                             <li class="recentcomments"><span class="comment-author-link"><a href='https://wordpress.org/' rel='external nofollow' class='url'>A WordPress Commenter</a></span> on <a href="http://localhost/wordpress/2016/11/26/hello-world/#comment-1">Hello world!</a>
                             </li>
@@ -45,7 +96,7 @@
                         </ul>
                     </section>
                     <section id="archives-2" class="widget widget_archive">
-                        <h2 class="widget-title">Archives</h2>
+                        <h2 class="widget-title"><span>Archives</span></h2>
                         <ul>
                             <li><a href='http://localhost/wordpress/2016/11/'>November 2016</a>
                             </li>
@@ -92,7 +143,7 @@
                         </ul>
                     </section>
                     <section id="categories-2" class="widget widget_categories">
-                        <h2 class="widget-title">Categories</h2>
+                        <h2 class="widget-title"><span>Categories</span></h2>
                         <ul>
                             <li class="cat-item cat-item-4"><a href="http://localhost/wordpress/category/aciform/">aciform</a>
                             </li>
@@ -225,7 +276,7 @@
                         </ul>
                     </section>
                     <section id="meta-2" class="widget widget_meta">
-                        <h2 class="widget-title">Meta</h2>
+                        <h2 class="widget-title"><span>Meta</span></h2>
                         <ul>
                             <li><a href="http://localhost/wordpress/wp-admin/">Site Admin</a>
                             </li>
@@ -311,7 +362,7 @@
                         </div>
                     </section>
                     <section id="categories-3" class="widget widget_categories">
-                        <h2 class="widget-title">Categories</h2>
+                        <h2 class="widget-title"><span>Categories</span></h2>
                         <ul>
                             <li class="cat-item cat-item-4"><a href="http://localhost/wordpress/category/aciform/">aciform</a>
                             </li>
@@ -444,7 +495,7 @@
                         </ul>
                     </section>
                     <section id="tag_cloud-2" class="widget widget_tag_cloud">
-                        <h2 class="widget-title">Tags</h2>
+                        <h2 class="widget-title"><span>Tags</span></h2>
                         <div class="tagcloud"><a href='http://localhost/wordpress/tag/8bit/' class='tag-link-68 tag-link-position-1' title='1 topic' style='font-size: 1em;'>8BIT</a>
                             <a href='http://localhost/wordpress/tag/alignment-2/' class='tag-link-69 tag-link-position-2' title='3 topics' style='font-size: 1em;'>alignment</a>
                             <a href='http://localhost/wordpress/tag/articles/' class='tag-link-70 tag-link-position-3' title='1 topic' style='font-size: 1em;'>Articles</a>

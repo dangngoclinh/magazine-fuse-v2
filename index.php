@@ -6,7 +6,7 @@
                 <div class="row">
 
                     <!-- Section Content -->
-                    <section id="section-content" class="col-md-9">
+                    <section id="section-content" class="col-lg-9 col-md-12">
                         <article id="post-1" class="article-style-1">
                             <span class="article-category">
     							<a href="#">Category</a>
