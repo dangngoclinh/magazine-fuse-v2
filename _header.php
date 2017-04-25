@@ -20,17 +20,16 @@
             </div>
             <!-- End #logo -->
             <nav id="site-navigation" class="main-navigation col-md-8" role="navigation" aria-label="Primary Menu">
-                <div class="menu-all-pages-container">
                     <ul id="primary-menu">
-                        <li id="menu-item-1636" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1636"><a href="http://wpthemetestdata.wordpress.com/">Home</a>
+                        <li id="menu-item-1636" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1636"><a href="index.php">Home</a>
                         </li>
-                        <li id="menu-item-1637" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1637"><a href="http://localhost/wordpress/blog/">Blog</a>
+                        <li id="menu-item-1637" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1637"><a href="http://localhost/wordpress/blog/">df</a>
                         </li>
                         <li id="menu-item-1638" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1638"><a href="http://localhost/wordpress/front-page/">Front Page</a>
                         </li>
-                        <li id="menu-item-1639" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1639" aria-haspopup="true"><a href="http://localhost/wordpress/about/">About The Tests</a>
+                        <li id="menu-item-1639" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1639" aria-haspopup="true"><a href="cat1.php">Cat 1</a>
                             <ul class="sub-menu">
-                                <li id="menu-item-1697" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1697"><a href="http://localhost/wordpress/about/page-image-alignment/">Page Image Alignment</a>
+                                <li id="menu-item-1697" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1697"><a href="cat2.php">Cat 2</a>
                                 </li>
                                 <li id="menu-item-1698" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1698"><a href="http://localhost/wordpress/about/page-markup-and-formatting/">Page Markup And Formatting</a>
                                 </li>
@@ -42,7 +41,7 @@
                                 </li>
                             </ul>
                         </li>
-                        <li id="menu-item-1643" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1643" aria-haspopup="true"><a href="http://localhost/wordpress/level-1/">Level 1</a>
+                        <li id="menu-item-1643" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1643" aria-haspopup="true"><a href="single1.php">Single 1</a>
                             <ul class="sub-menu">
                                 <li id="menu-item-1644" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1644" aria-haspopup="true"><a href="http://localhost/wordpress/level-1/level-2/">Level 2</a>
                                     <ul class="sub-menu">
@@ -67,7 +66,6 @@
                         <li id="menu-item-1704" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1704"><a href="http://localhost/wordpress/page-b/">Page B</a>
                         </li>
                     </ul>
-                </div>
             </nav>
             <!-- End #site-navigation -->
             <div class="header-social col-md-2">

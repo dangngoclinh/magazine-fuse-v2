@@ -275,7 +275,7 @@
                                         <div class="article-title">
                                             <h2><a href="http://www.e-aydin.com/theme/minihorse/2017/03/25/opposite-that-and-so-cut-this-this-unicorn-resigned/">Opposite that and so cut this this unicorn resigned</a></h2>
                                         </div>
-                                        <div class="article-detail">
+                                        <div class="article-meta">
                                             <span>
                                   <i class="fa fa-clock-o" aria-hidden="true"></i> <a href="http://www.e-aydin.com/theme/minihorse/2017/03/25/">March 25, 2017</a>
                                 </span>
@@ -295,7 +295,7 @@
                                         <div class="article-title">
                                             <h2><a href="http://www.e-aydin.com/theme/minihorse/2017/03/26/so-how-bout-them-knicks/">So, how ’bout them Knicks?</a></h2>
                                         </div>
-                                        <div class="article-detail">
+                                        <div class="article-meta">
                                             <span>
                                   <i class="fa fa-clock-o" aria-hidden="true"></i> <a href="http://www.e-aydin.com/theme/minihorse/2017/03/26/">March 26, 2017</a>
                                 </span>
@@ -315,7 +315,7 @@
                                         <div class="article-title">
                                             <h2><a href="http://www.e-aydin.com/theme/minihorse/2017/03/26/tesseract-intelligent-beings/">Tesseract intelligent beings?</a></h2>
                                         </div>
-                                        <div class="article-detail">
+                                        <div class="article-meta">
                                             <span>
                                   <i class="fa fa-clock-o" aria-hidden="true"></i> <a href="http://www.e-aydin.com/theme/minihorse/2017/03/26/">March 26, 2017</a>
                                 </span>
