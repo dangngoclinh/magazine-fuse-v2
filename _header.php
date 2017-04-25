@@ -31,7 +31,7 @@
                             <ul class="sub-menu">
                                 <li id="menu-item-1697" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1697"><a href="cat2.php">Cat 2</a>
                                 </li>
-                                <li id="menu-item-1698" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1698"><a href="http://localhost/wordpress/about/page-markup-and-formatting/">Page Markup And Formatting</a>
+                                <li id="menu-item-1698" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1698"><a href="cat3.php">Cat 3</a>
                                 </li>
                                 <li id="menu-item-1640" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1640"><a href="http://localhost/wordpress/about/clearing-floats/">Clearing Floats</a>
                                 </li>
