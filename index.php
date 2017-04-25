@@ -6,7 +6,7 @@
 
                 <!-- Section Content -->
                 <section id="section-content" class="col-md-9">
-                    <article id="post-1" class="article style-one">
+                    <article id="post-1" class="article-style-1">
                         <span class="article-category">
 							<a href="#">Category</a>
 							<a href="#">Category</a>
@@ -57,7 +57,7 @@
                             </div>
                         </div>
                     </article>
-                    <article id="post-1" class="article style-one">
+                    <article id="post-1" class="article-style-1">
                         <span class="article-category">
 							<a href="#">Category</a>
 							<a href="#">Category</a>
@@ -108,7 +108,7 @@
                             </div>
                         </div>
                     </article>
-                    <article id="post-1" class="article style-one">
+                    <article id="post-1" class="article-style-1">
                         <span class="article-category">
 							<a href="#">Category</a>
 							<a href="#">Category</a>

@@ -479,6 +479,16 @@ li.menu-item-has-children li{
 	color: #989898;
 }
 
+/* article style one*/
+
+.article-style-1 {
+	margin-bottom: 70px;
+}
+
+.article-style-1 figure img {
+	border-radius: 5px;
+}
+
 /* article style two */
 .article.style-two:nth-child(even) {
 	padding-left: 20px;
@@ -508,7 +518,7 @@ li.menu-item-has-children li{
 /*pagination*/
 .pagination a {
 	padding: 9px 30px 10px 30px;
-	background-color: #e00606;
+	background-color: #36bbef;
 	color: #fff;
 	border-radius: 20px;
 	text-transform: uppercase;
@@ -1289,4 +1299,52 @@ li.menu-item-has-children li{
 	letter-spacing: 2px;
 	font-size: 14px;
 	cursor: pointer;
+}
+
+/*cat tags title*/
+.cat-tag-title {
+	background-color: #f9f9f9;
+	padding: 40px 0 30px 0;
+	text-align: center;
+	border-bottom: 1px solid #f3f3f3;
+}
+
+.cat-tag-title span {
+    color: #989898;
+    font-size: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.cat-tag-title h4 {
+    font-size: 36px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    line-height: 65px;
+}
+
+.cat-tag-title h4::before, 
+.cat-tag-title h4::after {
+    background-color: #eee;
+    content: "";
+    display: inline-block;
+    height: 1px;
+    position: relative;
+    vertical-align: middle;
+    width: 10%;
+}
+
+.cat-tag-title h4::before {
+    right: 0.5em;
+    margin-left: -50%;
+}
+
+.cat-tag-title h4::after {
+    left: 0.5em;
+    margin-right: -50%;
+}
+
+.cat-tag-title p {
+	font-family: 'Noticia Text', serif;
 }
