@@ -1,0 +1,12 @@
+{
+  "name": "magazine-fuse-v2",
+  "version": "1.0",
+  "description": "magazine fuse front end",
+  "main": "script.js",
+  "repository": "https://github.com/dangngoclinh/magazine-fuse-v2.git",
+  "author": "magazinefuse team",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}

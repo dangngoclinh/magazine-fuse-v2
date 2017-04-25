@@ -7,7 +7,7 @@
                 <!-- Section Content -->
                 <section id="section-content" class="col-md-9">
 	                <div class="row">
-						<article id="post-216" class="article style-two two-columns col-md-6">
+						<article id="post-216" class="article-style-2 two-columns col-md-6">
 						    <figure>
 						        <a href="http://www.e-aydin.com/theme/minihorse/2017/03/26/well-mercias-a-temperate-zone/"><img src="http://www.e-aydin.com/theme/minihorse/wp-content/uploads/2017/03/qweqwe1-600x404.jpg" class="attachment-minihorse-article-c size-minihorse-article-c wp-post-image" alt="" height="404" width="600">
 						        </a>
@@ -51,7 +51,7 @@
 						    </div>
 						    <!-- .c-article-footer -->
 						</article>
-						<article id="post-216" class="article style-two two-columns col-md-6">
+						<article id="post-216" class="article-style-2 two-columns col-md-6">
 						    <figure>
 						        <a href="http://www.e-aydin.com/theme/minihorse/2017/03/26/well-mercias-a-temperate-zone/"><img src="http://www.e-aydin.com/theme/minihorse/wp-content/uploads/2017/03/qweqwe1-600x404.jpg" class="attachment-minihorse-article-c size-minihorse-article-c wp-post-image" alt="" height="404" width="600">
 						        </a>
@@ -73,7 +73,7 @@
 						          </span>
 						    </div>
 						    <!-- .c-article-detail -->
-						    <p class="article-excerpt">
+						    <p class="article-excerpt text">
 						        Quick win execute , nor t-shaped individual, we need to leverage our synergies cross-pollination. Granularity you better eat a... </p>
 						    <div class="article-footer">
 							    <div class="row">
@@ -95,7 +95,7 @@
 						    </div>
 						    <!-- .c-article-footer -->
 						</article>
-						<article id="post-216" class="article style-two two-columns col-md-6">
+						<article id="post-216" class="article-style-2 two-columns col-md-6">
 						    <figure>
 						        <a href="http://www.e-aydin.com/theme/minihorse/2017/03/26/well-mercias-a-temperate-zone/"><img src="http://www.e-aydin.com/theme/minihorse/wp-content/uploads/2017/03/qweqwe1-600x404.jpg" class="attachment-minihorse-article-c size-minihorse-article-c wp-post-image" alt="" height="404" width="600">
 						        </a>
@@ -117,7 +117,7 @@
 						          </span>
 						    </div>
 						    <!-- .c-article-detail -->
-						    <p class="article-excerpt">
+						    <p class="article-excerpt text">
 						        Quick win execute , nor t-shaped individual, we need to leverage our synergies cross-pollination. Granularity you better eat a... </p>
 						    <div class="article-footer">
 							    <div class="row">
@@ -139,7 +139,7 @@
 						    </div>
 						    <!-- .c-article-footer -->
 						</article>
-						<article id="post-216" class="article style-two two-columns col-md-6">
+						<article id="post-216" class="article-style-2 two-columns col-md-6">
 						    <figure>
 						        <a href="http://www.e-aydin.com/theme/minihorse/2017/03/26/well-mercias-a-temperate-zone/"><img src="http://www.e-aydin.com/theme/minihorse/wp-content/uploads/2017/03/qweqwe1-600x404.jpg" class="attachment-minihorse-article-c size-minihorse-article-c wp-post-image" alt="" height="404" width="600">
 						        </a>
@@ -161,7 +161,7 @@
 						          </span>
 						    </div>
 						    <!-- .c-article-detail -->
-						    <p class="article-excerpt">
+						    <p class="article-excerpt text">
 						        Quick win execute , nor t-shaped individual, we need to leverage our synergies cross-pollination. Granularity you better eat a... </p>
 						    <div class="article-footer">
 							    <div class="row">

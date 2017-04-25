@@ -81,7 +81,24 @@
                 <a href="#">
                     <i class="fa fa-youtube"></i>
                 </a>
+                <a href="#" class="header-search-button">
+                    <i class="fa fa-search"></i>
+                </a>
             </div>
+            <!-- End .header-social -->
+            <div class="header-search-popup active">
+                <div class="header-close">
+                    <i class="fa fa-close"></i>
+                </div>
+                <div class="header-table">
+                    <div class="header-tb-cell">
+                        <form role="search" method="get" action="http://huron.kendytheme.net/">
+                            <input placeholder="Press enter to search" value="" name="s" type="text">
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <!-- End .header-search-popup -->
             <!-- End .header-social -->
         </div>
     </header>
