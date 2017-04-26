@@ -13,4 +13,11 @@ jQuery(document).ready(function($) {
 			$("#header .header-search-popup").addClass('active');
 		}
 	})
+
+	// Mobile menu
+	$(".mobile-menu-button").on("click", function(event) {
+		event.preventDefault();
+
+		$('.mobile-menu-content').slideToggle("fast");
+	});
 });

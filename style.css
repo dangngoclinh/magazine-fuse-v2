@@ -1,4 +1,4 @@
-/*Reset*/
+
 
 body {
     font-family: 'Montserrat', sans-serif;
@@ -382,17 +382,20 @@ li.menu-item-has-children li {
     cursor: pointer;
     display: block;
     position: absolute;
-    top: 9px;
-    right: 15px;
+    top: 0;
+    right: 0;
 }
 
 .mobile-menu-button a {
     display: block;
     position: relative;
     padding: 6px;
-    display: inline-block;
     font-size: 24px;
-}
+    border-left: 1px solid #eee;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    line-height: 43px;}
 
 
 /*

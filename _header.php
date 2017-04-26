@@ -2,7 +2,11 @@
 <html lang="en">
 
 <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!--[if lt IE 9]>
+        <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+    <![endif]-->
     <title>Magazine Fuse v2</title>
     <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700&amp;subset=latin-ext" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Noticia+Text:400,700&amp;subset=latin-ext" rel="stylesheet">
@@ -15,12 +19,12 @@
 <body>
     <header id="header">
         <div class="row">
-            <div id="logo" class="col-md-2">
+            <div id="logo" class="col-lg-2 col-md-10">
                 <a href="#"><img src="https://www.magazinefuse.com/wp-content/uploads/2015/06/log_magazine_fuse_1.png">
                 </a>
             </div>
             <!-- End #logo -->
-            <nav id="site-navigation" class="main-navigation col-lg-8 col-md-10" role="navigation" aria-label="Primary Menu">
+            <nav id="site-navigation" class="main-navigation col-lg-8 hidden-md-down" role="navigation" aria-label="Primary Menu">
                     <ul id="primary-menu">
                         <li id="menu-item-1636" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1636"><a href="index.php">Home</a>
                         </li>
@@ -69,7 +73,7 @@
                     </ul>
             </nav>
             <!-- End #site-navigation -->
-            <div class="header-social col-lg-2">
+            <div class="header-social col-lg-2 hidden-md-down">
                 <a href="#">
                     <i class="fa fa-facebook"></i>
                 </a>
